@@ -1,0 +1,9 @@
+.body {
+  font-size: 25px;
+  background-color: bisque;
+}
+.wrapper {
+  border: red solid;
+  margin-right: 300px;
+}
+
